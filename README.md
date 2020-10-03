@@ -1,5 +1,4 @@
 ## Dice Game 
-A simple dice game programmed through Javascript
 
 https://dice-js.herokuapp.com/
 
