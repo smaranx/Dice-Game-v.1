@@ -1,6 +1,6 @@
 ## Dice Game 
 
-https://dice-js.herokuapp.com/
+https://smarxn.github.io/Dice-Game/
 
 
 #### Rules:
