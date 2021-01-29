@@ -1,4 +1,4 @@
-## Dice Game 
+## Dice Game version.1
 
 https://smarxn.github.io/Dice-Game/
 
