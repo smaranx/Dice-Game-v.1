@@ -1,6 +1,6 @@
 ## Dice Game version.1
 
-https://smarxn.github.io/Dice-Game/
+https://smarxn.github.io/Dice-Game-v.1/
 
 
 #### Rules:
